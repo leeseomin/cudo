@@ -2,7 +2,7 @@
 
  <img src="https://github.com/leeseomin/cudo/blob/main/2K_CUDO.png" width="1900">
 
-
+ <img src="https://github.com/leeseomin/cudo/blob/main/4k_yellow.png" width="1900">
 
 
 
